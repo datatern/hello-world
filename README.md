@@ -1,2 +1,2 @@
 # hello-world
-new repo
+Hi to all the cool people on GitHub!
